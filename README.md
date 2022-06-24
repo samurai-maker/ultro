@@ -1,1 +1,2 @@
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/samurai-maker/ultro))
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/samurai-maker/ultro)
